@@ -1,0 +1,12 @@
+.add {
+    margin: 0;
+}
+input{
+    margin: 0;
+    outline: none;
+    border: none;
+    border-left:.3px solid #fff;
+}   
+form {
+    margin: 0;
+}
